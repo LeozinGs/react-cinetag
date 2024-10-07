@@ -19,4 +19,11 @@
 
 .favoritar {
     width: 25px;
+    cursor: pointer;
+}
+
+.link {
+    text-decoration: none;
+    color: var(--clr-black);
+    text-align: left;
 }
